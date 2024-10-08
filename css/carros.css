@@ -1,0 +1,9 @@
+.container-formulario {
+    width: 60%; /* Ajustado para parecer mais próximo do mockup */
+    min-height: 50vh; /* Altura mínima ajustada para não ficar muito grande */
+    background-color: #f3f3f3; /* Cor de fundo conforme o mockup */
+    margin: 3rem auto; /* Margens ajustadas para centralização */
+    padding: 2rem; /* Adiciona padding interno */
+    border-radius: 8px; /* Borda mais suave */
+}
+
